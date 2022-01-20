@@ -22,14 +22,12 @@ dependencies {
 -----
 xml
  <ImageView
-            android:id="@+id/image_view_dice_one"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:contentDescription="@string/str_image_desc_one"
-            android:padding="@dimen/padding_eight"
-            android:src="@drawable/dice_empty"
-            tools:src="@drawable/dice5" />
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/image_description"
+        app:srcCompat="@drawable/happynewyear" />
 		
 
 
