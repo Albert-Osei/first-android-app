@@ -1,5 +1,5 @@
 # first-android-app
-https://github.com/Albert-Osei/first-android-app/blob/main/appdemo.png
+![TheMaster](https://github.com/Albert-Osei/first-android-app/blob/main/appdemo.png)
 
 It uses a BitmapShader and *does not*:
 * create a copy of the original bitmap
